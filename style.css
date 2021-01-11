@@ -1,0 +1,10 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #5CE1E6;
+}
+.container{
+    font-family:  'Courier New', Courier, monospace;
+
+}
